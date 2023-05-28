@@ -1,0 +1,20 @@
+* {
+  margin: 0px;
+  text-decoration: none;
+}
+.main-container {
+  background-color: #eef4f7;
+  min-height: 100vh;
+  padding: 10px 30px;
+}
+
+.heading {
+  text-align: center;
+  text-decoration: 2px solid #52bbf0 underline;
+}
+
+.places-container {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}
